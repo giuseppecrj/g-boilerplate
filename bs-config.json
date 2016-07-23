@@ -1,0 +1,4 @@
+{
+  "files": [ "./src/**/*.css", "./index.html", "public/assets/javascripts/main.js"],
+  "open": false
+}
